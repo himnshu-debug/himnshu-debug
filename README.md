@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @himnshu-debug
-- 👀 I’m interested in Robotics and AI
+- 👀 I’m interested in Human Robot Interaction
 - 🌱 I’m currently learning Robotics and IoT
 - 💞️ I’m looking to collaborate on AI
 - 📫 How to reach me 12himsunny@gmail.com
