@@ -1,11 +1,5 @@
-- 👋 Hi, I’m himanshu
-- 👀 I’m interested in Human Robot Interaction
-- 🌱 I’m currently working Robotics and IoT
-- 💞️ I’m looking to collaborate on AI
-- 📫 Reach me 12himsunny@gmail.com
+Hi, I'm Himanshu.
 
-<!---
+I'm at IISc, Bengaluru, working on human-robot interaction and robotics — things like gesture and posture sensing with computer vision, and getting that talking to embedded hardware. Still learning as I go, and always happy to collaborate or talk shop.
 
-himnshu-debug/himnshu-debug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Reach me at 12himsunny@gmail.com.
